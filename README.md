@@ -100,12 +100,3 @@ git push origin feature-your-feature-name
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-### How to Use
-1. Save this text as `README.md` in the root directory of your project.
-2. Customize placeholders like `your-username` and `/path/to/your-service-account-key.json`.
-3. Add it to your Git repository:
-   ```bash
-   git add README.md
-   git commit -m "Add README.md"
-   git push
